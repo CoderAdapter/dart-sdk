@@ -7,7 +7,7 @@
 2. 可加入[QQ群](//shang.qq.com/wpa/qunwpa?idkey=b34e5d3956950dc053efdd7aef63ef75151c01cfff48a951c8fc53d6349b454a)即时催更
 
 ### 参与方式
-1. 任意 fork [Flutter](https://github.com/creatint/flutter) / [Dart sdk](https://github.com/creatint/dart-lib)，克隆到本地，默认分支为 *trans*
+1. 任意 fork [Flutter](https://github.com/creatint/flutter) / [Dart sdk](https://github.com/creatint/dart-sdk)，克隆到本地，默认分支为 *trans*
 2. 提交issue来声明要翻译的文件，如 `packages/flutter/animation/tween.dart`，设置合适的标签
 2. 新建分支如 `trans-creaty`，在此分支进行翻译
 3. 翻译完成后发起 `pull request`，我会检查、合并、制作网页
